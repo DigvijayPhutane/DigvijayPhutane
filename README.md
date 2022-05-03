@@ -4,7 +4,7 @@ Hi 👋 My name is Digvijay Phutane
 CEO at Project Triangle ; IT Engineer ; Full stack web developer.
 -----------------------------------------------------------------
 
-I'm Coder Geek with 5 years of experience. Currently pursuing my major in IT Engineering. I have my own startup named Project triangle. It is a software solutions application and website development forum.My utmost expertise are in full stack web development , web designing and UI-frontends and many-more..
+I'm a Coder Geek with 5 years of experience. Currently pursuing my major in IT Engineering. I have my own startup named Project triangle. It is a software solutions application and website development forum.My utmost expertise are in full stack web development , web designing and UI-frontends and many-more..
 
 * 🌍  I'm based in mumbai , india
 * ✉️  You can contact me at [digvijay.phutane@gmail.com](mailto:digvijay.phutane@gmail.com)
