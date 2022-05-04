@@ -10,7 +10,7 @@ I'm a Coder Geek with 5 years of experience. Currently pursuing my major in IT E
 * ✉️  You can contact me at [digvijay.phutane@gmail.com](mailto:digvijay.phutane@gmail.com)
 * 🚀  I'm currently working on [PROJECT TRIANGLE](http://projectstriangle.com)
 * 🤝  I'm open to collaborating on AI , ML , websites anything..
-* ⚡  I'm a Computer Psyco😜
+* ⚡  I'm a Computer Psyco😜 
 
 <a href="https://www.twitter.com/PhutaneDigvijay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/PhutaneDigvijay?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
