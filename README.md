@@ -1,7 +1,7 @@
 Hi 👋 My name is Digvijay Phutane
 =================================  
 
-FOUNDER of Project Triangle ; IT Engineer ; Full stack web developer.    
+FOUNDER of Project Triangle ; IT Engineer ; Full stack web developer.              
 -------------------------------------------------------------------
 
 I'm a Coder Geek with 5 years of experience. Currently pursuing my major in IT Engineering. I have my own startup named Project triangle. It is a software solutions application and website development forum.My utmost expertise are in full stack web development , web designing and UI-frontends and many-more..
