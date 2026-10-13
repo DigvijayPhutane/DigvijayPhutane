@@ -1,83 +1,101 @@
-Hi 👋 My name is Digvijay Phutane
-=================================                  
+<h1 align="center">Hi 👋, I'm Digvijay Phutane</h1>
+<h3 align="center">Data Scientist · GenAI / LLM Engineer · Researcher · Patent Holder</h3>
 
-FOUNDER of Project Triangle ; IT Engineer ; Data Scientist 🚀.                    
--------------------------------------------------------------------
-
-I'm a Coder Geek with 5 years of experience. Currently pursuing my major in IT Engineering. I have my own startup named Project triangle. It is a software solutions application and website development forum.My utmost expertise are in full stack web development , web designing and UI-frontends and many-more..             
-
-* 🌍  I'm based in mumbai , india
-* ✉️  You can contact me at [digvijay.phutane@gmail.com](mailto:digvijay.phutane@gmail.com)                 
-* 🚀  I'm currently working on [PROJECT TRIANGLE](http://projectstriangle.com)
-* 🤝  I'm open to collaborating on AI , ML , websites anything..
-* ⚡  I'm a Computer Psyco😜 
-
-<a href="https://www.twitter.com/PhutaneDigvijay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/PhutaneDigvijay?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/DigvijayPhutane" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DigvijayPhutane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>                  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>                            
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/digvijay-phutane-80968a213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:digvijay.phutane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://bold.pro/my/digvijay-phutane"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=googlechrome&logoColor=0891b2" /></a>
+<a href="https://drive.google.com/file/d/1Eay3dyzs77VpDk7AUVlHcqz4tFI-wPHj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0891b2?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://www.github.com/DigvijayPhutane"><img src="https://img.shields.io/github/followers/DigvijayPhutane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
+---
 
-                       
-### Socials
+### 🧠 About Me
 
-<p align="left"> <a href="https://www.codepen.io/digvijayphutane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.codesandbox.com/u/DigvijayPhutane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Digvijay.phutane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DigvijayPhutane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/digvijayphutane1102/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/digvijay-phutane-80968a213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19015289/digvijay-phutane?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/PhutaneDigvijay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://discord.com/users/Dionick#2704" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
-   
-### Badges
+Data Scientist with **3+ years of experience** designing and deploying AI-driven solutions and machine learning models. I build production-grade **LLM, RAG and agentic systems** with LangChain and LangGraph, served through FastAPI / Flask on AWS.
 
-<b>My GitHub Stats</b>
+- 💼 **Data Scientist** at **NeoSOFT Technologies**, Mumbai (Oct 2023 – Present)
+- 📄 **2 research papers** published in IJIRT (Sep 2026) on LLM inference and multi-agent AI safety
+- 🏛️ **Co-inventor** on a published Indian patent application (No. 202321005255)
+- 🎓 **B.E. Information Technology**, VPPCOE&VA – University of Mumbai (2019–2023), **CGPA 9.00/10**
+- 🌍 Based in Mumbai, India
+- 🤝 Open to collaborating on GenAI, LLM agents, RAG and ML research
 
-<a href="http://www.github.com/DigvijayPhutane"><img src="https://github-readme-stats.vercel.app/api?username=DigvijayPhutane&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DigvijayPhutane's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/DigvijayPhutane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DigvijayPhutane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📄 Research Publications
 
-<a href="http://www.github.com/DigvijayPhutane"><img src="https://activity-graph.herokuapp.com/graph?username=DigvijayPhutane&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+| # | Paper | Journal | Links |
+|---|-------|---------|-------|
+| 1 | **CompositeGuard: A Graph-Structural, Longitudinally-Monitored Detector for Emergent Guardrail-Bypass in Multi-Agent Systems** | IJIRT, Vol. 13 Issue 4, Sep 2026, pp. 2724–2732 (ISSN 2349-6002) | [Paper](https://ijirt.org/article?manuscript=208821) · [Certificate](https://drive.google.com/file/d/1CeRecY_4--sVzqmf4Zmh-TJL-mQKErZ3/view?usp=sharing) |
+| 2 | **Disk-Streamed Layerwise Inference of Frontier Language Models on Memory-Constrained Hardware** | IJIRT, Vol. 13 Issue 4, Sep 2026, pp. 2625–2637 (ISSN 2349-6002) | [Paper](https://ijirt.org/article?manuscript=208335) · [Certificate](https://drive.google.com/file/d/1_mjnouEqWv11ZnJ1eYULYejr16ivJwsq/view?usp=sharing) |
 
-<a href="https://github.com/DigvijayPhutane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayPhutane&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🏛️ Patent
 
-<b>Top Repositories</b>
+**Pothole Detection and Filling Using Plastic Waste** — Application No. **202321005255**, filed 26 Jan 2023, Indian Patent Office (Mumbai), field: Computer Science. An IoT + ML system (Raspberry Pi, camera, ultrasonic sensors, GPS) that detects and measures potholes in real time and fills them with a recycled plastic–bitumen mix.
+📎 [Patent documents](https://drive.google.com/file/d/1DzM4FxOC3aPP8dtEmBSx6miU6PzwkSdd/view?usp=sharing)
 
-<div width="100%" align="center"><a href="https://github.com/DigvijayPhutane/LMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigvijayPhutane&repo=LMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DigvijayPhutane/Virtual-trial-room-using-open-cv" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigvijayPhutane&repo=Virtual-trial-room-using-open-cv&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
+### 🚀 Key Projects (Industry)
 
-<div width="100%" align="center"><a href="https://github.com/DigvijayPhutane/TO-DO-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigvijayPhutane&repo=TO-DO-list&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DigvijayPhutane/E-learning-_management_system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DigvijayPhutane&repo=E-learning-_management_system&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-  
-### Support Me
+- **Insurance Chatbot** — LangChain RAG + AI Gateway, S3 → PyMuPDF → ChromaDB ingestion, LLM intent router to RAG / MCP tools, hybrid retrieval with cross-encoder re-ranking, prompt-injection guardrails (GPT-4o mini).
+- **RFP Estimator Agent** — LangChain multi-agent platform that cut estimation of 30–50 page RFPs from **2 days to ~10 minutes**.
+- **HR Resume Parser** — 4-node stateful LangGraph pipeline with conditional routing, block-level PDF parsing and validated JSON scoring.
+- **Industrial Digitization** — Regression / SVM / Random Forest forecasting, Autoencoder anomaly detection, live benchmarking and furnace-efficiency optimization.
 
-<a href="https://www.buymeacoffee.com/digvijayphz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · C++ · SQL
+**AI / ML:** LLMs · RAG · NLP · Deep Learning · Transfer Learning · Fine-tuning
+**Frameworks:** LangChain · LangGraph · PyTorch · TensorFlow · Keras · Scikit-learn
+**Computer Vision:** OpenCV · YOLO
+**Backend:** FastAPI · Flask · Gradio · Streamlit
+**Databases:** MS SQL Server · MySQL · MongoDB · Qdrant · Chroma
+**Cloud & DevOps:** AWS · Docker
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,sklearn,opencv,fastapi,flask,aws,docker,mongodb,mysql,git,linux" />
+</p>
+
+---
+
+### 🏅 Certifications & Supporting Documents
+
+- Data Science with Python — Simplilearn (2023)
+- Python — IBM (2022) · [Verify](https://courses.etrain.skillsnetwork.site/certificates/f8a28fb095304882b55c53c23553f2af)
+- Data Science & ML using Python — CodeNucleus, Pune (2023)
+- ML & Data Science Internship — PHN Technology, Pune (2023)
+- Object Detection and Recognition — MindLuster (2023)
+- AWS for Beginners — Great Learning (2023)
+- NSE 1 Network Security Associate — Fortinet (2020)
+- Arduino Training — Spoken Tutorial, IIT Bombay (2022)
+
+📂 **[All certificates (PDF)](https://drive.google.com/file/d/1hkL0SXWvRU8k5EH7dY2bUAkG2Mfrcfnz/view?usp=sharing)** · 📄 **[Resume](https://drive.google.com/file/d/1Eay3dyzs77VpDk7AUVlHcqz4tFI-wPHj/view?usp=sharing)**
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/DigvijayPhutane"><img src="https://github-readme-stats.vercel.app/api?username=DigvijayPhutane&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub stats" /></a>
+
+<a href="https://github.com/DigvijayPhutane"><img src="https://streak-stats.demolab.com/?user=DigvijayPhutane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" /></a>
+
+<a href="https://github.com/DigvijayPhutane"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayPhutane&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top languages" /></a>
+
+---
+
+### 🌐 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/digvijay-phutane-80968a213"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/DigvijayPhutane"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/19015289/digvijay-phutane?tab=profile"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/PhutaneDigvijay"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.codepen.io/digvijayphutane"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
+</p>
+
+<a href="https://www.buymeacoffee.com/digvijayphz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" /></a>
