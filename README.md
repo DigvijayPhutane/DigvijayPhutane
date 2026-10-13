@@ -7,6 +7,7 @@
 <a href="https://bold.pro/my/digvijay-phutane"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge&logo=googlechrome&logoColor=0891b2" /></a>
 <a href="https://drive.google.com/file/d/1Eay3dyzs77VpDk7AUVlHcqz4tFI-wPHj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0891b2?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://www.github.com/DigvijayPhutane"><img src="https://img.shields.io/github/followers/DigvijayPhutane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/Digvijayphutane-NEOSOFT"><img src="https://img.shields.io/badge/GitHub_(NeoSOFT)-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
